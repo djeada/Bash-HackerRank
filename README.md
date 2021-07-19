@@ -1,7 +1,7 @@
 # Bash-HackerRank
 Solutions to HackerRank Bash problems.
 
-<h1></h1>
+<h1>Basics</h1>
 
 <table>
     <thead>
