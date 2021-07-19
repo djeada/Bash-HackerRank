@@ -1,7 +1,9 @@
+#!/bin/bash
+
 read answer
 
-if [[ ${answer,,}  == 'y' ]] ; then
+if [[ "$answer"  == 'y' ]] ; then
     echo 'YES'
-elif [[ ${answer,,} == 'n' ]] ; then
+elif [[ "$answer" == 'n' ]] ; then
     echo 'NO'
 fi
