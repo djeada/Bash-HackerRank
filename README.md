@@ -14,8 +14,7 @@ Solutions to HackerRank Bash problems.
     <tbody>
         <tr>
             <td>1</td>
-            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem">Let's Echo
-</a></td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem">Let's Echo</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Basics/lets_echo.sh">Bash</a></td>
         </tr>
         <tr>
@@ -241,6 +240,60 @@ Solutions to HackerRank Bash problems.
             <td>35</td>
             <td><a href="https://www.hackerrank.com/challenges/paste-4/problem">Paste 4</a></td>
             <td><a href="https://www.hackerrank.com/challenges/paste-4/problem">Bash</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Arrays</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem">Read in an Array</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/read_array.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/problem">Slice an Array</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/slice_array.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem">Filter an Array with Patterns</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/filter.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem">Concatenate an array with itself</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/concat_array.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem">Display an element of an array</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/display_array.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem">Count the number of elements in an Array</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/length.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem">Remove the First Capital Letter from Each Element</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/first_capital_letter.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="https://www.hackerrank.com/challenges/lonely-integer-2/problem">Lonely Integer - Bash!</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/Arrays/lonely_integer.sh">Bash</a></td>
         </tr>
     </tbody>
 </table>
