@@ -4,7 +4,7 @@ read a
 read b
 read c
 
-if [ $a == $b ] || [ $b == $c ] || [ $a == $c ] 
+if [ $a == $b ] || [ $b == $c ] || [ $a == $c ]
 then
     if [ $a == $b ] && [ $b == $c ]
     then
