@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read var
 
 result=$(echo "$var" | bc -l)
