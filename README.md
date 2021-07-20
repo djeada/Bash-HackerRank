@@ -346,7 +346,7 @@ Solutions to HackerRank Bash problems.
         </tr>
         <tr>
             <td>8</td>
-            <td><a href="https://www.hackerrank.com/challenges/awk-3/problem">Awk 3/a></td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-3/problem">Awk 3</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/awk_3.sh">Bash</a></td>
         </tr>
         <tr>
