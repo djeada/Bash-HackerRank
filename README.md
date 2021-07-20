@@ -297,3 +297,88 @@ Solutions to HackerRank Bash problems.
         </tr>
     </tbody>
 </table>
+
+<h1>Grep Sed Awk</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem">Grep 1</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/grep_1.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/problem">Grep 2</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/grep_2.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/problem">Grep 3</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/grep_3.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/problem">Grep A</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/grep_a.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/problem">Grep B</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/grep_b.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-1/problem">Awk 1</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/awk_1.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-2/problem">Awk 2</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/awk_2.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-3/problem">Awk 3/a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/awk_3.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-4/problem">Awk 4</td>
+        <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/awk_4.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/problem">Sed 1</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/sed_1.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem">Sed 2</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/sed_2.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem">Sed 3</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/sed_3.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-4/problem">Sed 4</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/sed_4.sh">Bash</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-5/problem">Sed 5</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/GrepSedAwk/sed_5.sh">Bash</a></td>
+        </tr>
+    </tbody>
+</table>
+
