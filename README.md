@@ -1,7 +1,9 @@
 # Bash-HackerRank 
 Solutions to HackerRank Bash problems.
 
-<h1>Basics</h1>
+![Capture](https://user-images.githubusercontent.com/37275728/186217732-4c96d480-0d75-422e-9fd7-e0ff8ad25fbe.PNG)
+
+## Basics
 
 <table>
     <thead>
@@ -70,7 +72,7 @@ Solutions to HackerRank Bash problems.
     </tbody>
 </table>
 
-<h1>Text Processing</h1>
+## Text Processing
 
 <table>
     <thead>
@@ -244,7 +246,7 @@ Solutions to HackerRank Bash problems.
     </tbody>
 </table>
 
-<h1>Arrays</h1>
+## Arrays
 
 <table>
     <thead>
@@ -298,7 +300,7 @@ Solutions to HackerRank Bash problems.
     </tbody>
 </table>
 
-<h1>Grep Sed Awk</h1>
+## Grep Sed Awk
 
 <table>
     <thead>
