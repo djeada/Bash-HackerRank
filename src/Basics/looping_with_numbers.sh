@@ -1,3 +1,5 @@
 #!/bin/bash
 
-for num in {1..50} ; do echo ${num} ;done
+for elem in {1..50}; do
+    echo "$elem"
+done
