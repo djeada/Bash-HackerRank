@@ -8,4 +8,5 @@ for i in $(seq 1 $n); do
     sum=$((sum + number))
 done
 
-echo "scale=3;  $sum / $n" | bc
+result=$(echo "$sum / $n" | bc -l)
+printf %.3f "$result"
