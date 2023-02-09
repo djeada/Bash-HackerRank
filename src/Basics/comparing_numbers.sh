@@ -1,14 +1,12 @@
 #!/bin/bash
 
-read X
-read Y
+read x
+read y
 
-if [ $X -gt $Y ]
-then
+if [[ "$x" -gt "$y" ]]; then
     echo "X is greater than Y"
-elif [ $X -eq $Y ]
-then
-    echo "X is equal to Y"
-else
+elif [[ "$x" -lt "$y" ]]; then
     echo "X is less than Y"
+else
+    echo "X is equal to Y"
 fi
