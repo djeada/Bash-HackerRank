@@ -1,7 +1,5 @@
 #!/bin/bash
 
-read var
-
-result=$(echo "$var" | bc -l)
-
-printf "%.3f" "$result"
+read expression
+result="$(echo "$expression" | bc -l)"
+printf %.3f "$result"
