@@ -1,3 +1,8 @@
 #!/bin/bash
-array=($(cat))
-echo ${array[@]:3:5}
+
+countries=()
+while read -r country; do
+    countries+=("$country")
+done
+
+echo ${countries[@]:3:5}
