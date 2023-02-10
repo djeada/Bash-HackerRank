@@ -1,3 +1,8 @@
 #!/bin/bash
-array=($(cat))
-echo ${array[@]} ${array[@]} ${array[@]}
+
+countries=()
+while read -r country; do
+    countries+=("$country")
+done
+
+echo "${countries[@]} ${countries[@]} ${countries[@]}"
