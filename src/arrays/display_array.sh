@@ -1,8 +1,4 @@
 #!/bin/bash
 
-countries=()
-while read -r country; do
-    countries+=("$country")
-done
-
-echo "${countries[3]}" 
+read -d '' -a countries
+echo "${countries[3]}"
