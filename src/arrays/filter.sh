@@ -1,3 +1,4 @@
 #!/bin/bash
-array=($(cat))
-echo ${array[@]/*[a|A]*/}
+
+read -d "" -a countries
+echo ${countries[@]/*[aA]*/}
