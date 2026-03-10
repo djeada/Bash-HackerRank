@@ -1,5 +1,6 @@
-# Bash-HackerRank 
-Solutions to HackerRank Bash problems.
+# Bash-HackerRank
+
+Solutions to [HackerRank](https://www.hackerrank.com/domains/shell) Bash challenges. Each solution is a standalone script located under `src/` and organized by category. See the [`notes/`](notes/) directory for quick-reference guides on the Bash concepts covered here.
 
 ![Capture](https://user-images.githubusercontent.com/37275728/186217732-4c96d480-0d75-422e-9fd7-e0ff8ad25fbe.PNG)
 
@@ -56,8 +57,8 @@ Solutions to HackerRank Bash problems.
         </tr>
         <tr>
             <td>9</td>
-            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem">Arithmetic Operations</td>
-        <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/basics/arithmetic_operations.sh">Bash</a></td>
+            <td><a href="https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem">Arithmetic Operations</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/basics/arithmetic_operations.sh">Bash</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -67,7 +68,7 @@ Solutions to HackerRank Bash problems.
         <tr>
             <td>11</td>
             <td><a href="https://www.hackerrank.com/challenges/fractal-trees-all/problem">Functions and Fractals - Recursive Trees - Bash!</a></td>
-            <td><a href="">Bash</a></td>
+            <td>—</td>
         </tr>
     </tbody>
 </table>
@@ -125,8 +126,8 @@ Solutions to HackerRank Bash problems.
         </tr>
         <tr>
             <td>9</td>
-            <td><a href="https://www.hackerrank.com/challenges/text-processing-cut-9/problem">Cut 9</td>
-        <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/cut_9.sh">Bash</a></td>
+            <td><a href="https://www.hackerrank.com/challenges/text-processing-cut-9/problem">Cut 9</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/cut_9.sh">Bash</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -141,7 +142,7 @@ Solutions to HackerRank Bash problems.
         <tr>
             <td>12</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem">Middle of a Text File</a></td>
-            <td><a href="">Bash</a></td>
+            <td>—</td>
         </tr>
         <tr>
             <td>13</td>
@@ -199,49 +200,49 @@ Solutions to HackerRank Bash problems.
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/sort_6.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>24</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-sort-7/problem">Sort Command 7</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/sort_7.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>25</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem">Uniq Command 1</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/uniq_1.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>26</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem">Uniq Command 2</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/uniq_2.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>30</td>
+            <td>27</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/problem">Uniq Command 3</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/uniq_3.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>31</td>
+            <td>28</td>
             <td><a href="https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem">Uniq Command 4</a></td>
             <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/uniq_4.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>32</td>
+            <td>29</td>
             <td><a href="https://www.hackerrank.com/challenges/paste-1/problem">Paste 1</a></td>
-            <td><a href="https://www.hackerrank.com/challenges/paste-1/problem">Bash</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/paste_1.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>33</td>
+            <td>30</td>
             <td><a href="https://www.hackerrank.com/challenges/paste-2/problem">Paste 2</a></td>
-            <td><a href="https://www.hackerrank.com/challenges/paste-2/problem">Bash</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/paste_2.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>34</td>
+            <td>31</td>
             <td><a href="https://www.hackerrank.com/challenges/paste-3/problem">Paste 3</a></td>
-            <td><a href="https://www.hackerrank.com/challenges/paste-3/problem">Bash</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/paste_3.sh">Bash</a></td>
         </tr>
         <tr>
-            <td>35</td>
+            <td>32</td>
             <td><a href="https://www.hackerrank.com/challenges/paste-4/problem">Paste 4</a></td>
-            <td><a href="https://www.hackerrank.com/challenges/paste-4/problem">Bash</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/text_processing/paste_4.sh">Bash</a></td>
         </tr>
     </tbody>
 </table>
@@ -353,8 +354,8 @@ Solutions to HackerRank Bash problems.
         </tr>
         <tr>
             <td>9</td>
-            <td><a href="https://www.hackerrank.com/challenges/awk-4/problem">Awk 4</td>
-        <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/grep_sed_awk/awk_4.sh">Bash</a></td>
+            <td><a href="https://www.hackerrank.com/challenges/awk-4/problem">Awk 4</a></td>
+            <td><a href="https://github.com/djeada/Bash-HackerRank/blob/main/src/grep_sed_awk/awk_4.sh">Bash</a></td>
         </tr>
         <tr>
             <td>10</td>
