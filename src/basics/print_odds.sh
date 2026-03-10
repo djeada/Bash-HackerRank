@@ -13,6 +13,6 @@ while [ $num -le 20 ]; do
         break
     fi
 
-    echo $num
+    echo "$num"
     num=$((num + 1))
 done

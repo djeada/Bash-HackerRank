@@ -3,7 +3,7 @@
 read n
 sum=0
 
-for i in $(seq 1 $n); do
+for i in $(seq 1 "$n"); do
     read number
     sum=$((sum + number))
 done
