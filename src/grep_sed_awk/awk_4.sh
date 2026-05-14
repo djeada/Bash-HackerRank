@@ -1,2 +1,7 @@
 #!/bin/bash
-awk '{ORS = NR%2 ? ";" : "\n"}1'
+awk '{
+    if (NR % 2 == 1)
+        line = $0
+    else
+        print line ";" $0
+}'
